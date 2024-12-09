@@ -1,6 +1,6 @@
 *{
     padding: 0;
-    margin: 20px 20px 20px 20px;
+    margin: 20px 10px 20px 10px;
 
     text-decoration: none;
     list-style: none;
@@ -22,7 +22,7 @@ header {
 }
 
 .text {
-    width: 783px;
+    width: 790px;
     display: flex;
     justify-content: center;
     justify-content: space-between;
@@ -34,4 +34,218 @@ header {
     font-size: 18px;
     font-weight: 400;
     line-height: 22px;
+}
+
+.basicInfo {
+    height: 902px;
+    display: flex;
+    margin-top: 50px;
+}
+
+.text1 > h1 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 75px;
+    font-weight: 400;
+    line-height: 93px;
+    text-transform: uppercase;
+    margin-left: 285px;
+    font: bold;
+}
+
+.X {
+    color: rgb(237, 188, 90);
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 29px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    position: absolute;
+}
+
+.X1 {
+    color: rgb(176, 176, 176);
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+.text2{
+    width: 710px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -10px;
+    gap: 10px;
+}
+
+.xz {
+    width: 330px;
+    height: 178px;
+    display: flex;
+    flex-direction: column;
+}
+
+.xz > div {
+    margin-top: 0;
+}
+
+.xz > h1 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 35px;
+    font: bold;
+}
+
+.xz > div > p {
+    color: rgb(176, 176, 176);
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+.xz1 {
+    width: 330px;
+    height: 178px;;
+    display: flex;
+    flex-direction: column;
+}
+
+.xz1 > div {
+    margin-top: 0;
+}
+
+.xz1 > h1 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 35px;
+    font: bold;
+}
+
+.xz1 > div > p {
+    color: rgb(176, 176, 176);
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+.xz2 {
+    width: 330px;
+    height: 178px;;
+    display: flex;
+    flex-direction: column;
+}
+
+.xz2 > div {
+    margin-top: 0;
+}
+
+.xz2 > h1 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 35px;
+    font: bold;
+}
+
+.xz2 > div > p {
+    color: rgb(176, 176, 176);
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+.xz3 {
+    width: 330px;
+    height: 178px;;
+}
+
+.xz3 > h1 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 35px;
+    font: bold;
+}
+
+.xz3 > div > p {
+    color: rgb(176, 176, 176);
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+.o {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.im {
+    margin-top: 70px;
+    margin-right: -50px;
+    width: 665px;
+    height: 620px;
+}
+
+.button {
+    width: 140px;
+    height: 39px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(255, 255, 255);
+    border-radius: 46px;
+    margin-top: 65px;
+}
+
+.button > p {
+    color: rgb(20, 20, 20);
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+.Info {
+    height: 178px;
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 140px;
+}
+
+.Info > div > h1 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+    font-size: 120px;
+    font-weight: 400;
+    line-height: 149px;
+    text-align: center;
+    font: bold;
+}
+
+.Info > div > p {
+    color: rgb(255, 255, 255);
+    font-family: "Rubik";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.footer {
+    
 }
